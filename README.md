@@ -1,3 +1,5 @@
 # car-animation
-the project craete with HTML & CSS 
+<br>
+<center><strong>the project craete with HTML & CSS</strong><center>
+<br>
 <img src="car-driving-69.webp" alt="">
